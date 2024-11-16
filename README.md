@@ -1,2 +1,3 @@
-# app-dev
-My first repository.
+# My Favorite Series
+1. Land Of The Lustrous - a story set in a distant future where the Earth is inhabited by immortal, genderless beings called "Lustrous" who are essentially living gemstones, each with unique abilities and appearances based on different minerals; they must defend themselves against the Lunarians, who attack to harvest their bodies for decoration, with the young and fragile Phosphophyllite (nicknamed Phos) finding a unique role in this fight despite their limitations.
+2. Firepunch - Fire Punch takes place on an Earth that has become frozen over and barren. The series follows Agni, a young man who is able to regenerate his body. After his village succumbs to inextinguishable flames he is left constantly on fire, leaving him in anguish and seeking revenge.
